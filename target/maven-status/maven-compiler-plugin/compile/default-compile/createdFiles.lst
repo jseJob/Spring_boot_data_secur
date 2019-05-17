@@ -1,0 +1,7 @@
+ru\practice\configuration\SecurityConfiguration.class
+ru\practice\service\ArticleService.class
+ru\practice\dao\ArticleRepository.class
+ru\practice\model\Article.class
+ru\practice\configuration\WebConfig.class
+ru\practice\ApplicationLauncher.class
+ru\practice\controller\MainController.class
